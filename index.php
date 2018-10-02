@@ -41,7 +41,7 @@
                     Menu <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Coderz <font color="#215E21">4</font> </span> Ever
+                    <img src="./img/logo.png"/>
                 </a>
             </div>
 
