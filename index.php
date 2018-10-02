@@ -41,7 +41,7 @@
                     Menu <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <img src="./img/logo.png"/>
+                    <img src="./img/logo.png">
                 </a>
             </div>
 
